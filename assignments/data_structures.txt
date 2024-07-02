@@ -1,0 +1,11 @@
+list ["milk", "honey"] -- mutable, ordered list, duplicates allowed, mostly one type
+
+set {"milk", "honey"} -- mutable, unordered list, no duplicates, mostly only one type
+
+tuple ("mile", "honey") -- immutable, ordered list, duplicates allowed, often mixed types
+
+dictionary {"name":"milk", "n":"2"} -- mutable, unordered map, no duplicate keys, often mixed types
+
+
+
+
